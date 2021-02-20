@@ -53,11 +53,11 @@ Unordered list
 |-------|------|-----|
 |Mohan|cse|3|
 |abcc|ece|5|
-|:muscle:|:smiley:|:fire:|
 
-**to Insert emoji**    
-:muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle: :muscle:
 
+**to Insert emoji**     
+:muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle: :muscle:        
+:muscle:   :smiley:    :fire:
 
 
 
